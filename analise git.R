@@ -1,0 +1,4 @@
+#Criando um vetor
+x=c(2,6,8,10)
+#calculando a media dos valores de x
+mean(x = x, na.rm = TRUE)
