@@ -10,4 +10,3 @@ $$\bar x = \frac{1}{n}\sum_{i=1}^{n}(X_i)$$
 
 o calculo da variãncia é dado por:
 $$ S² = \frac{1}{n-1} \sum_{i=1}^{n}(X_i - \bar x)²$$
-sdfiojosidfj
